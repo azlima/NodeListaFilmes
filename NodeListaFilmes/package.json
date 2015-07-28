@@ -1,0 +1,10 @@
+{
+  "name": "NodeListaFilmes",
+  "version": "0.0.0",
+  "description": "NodeListaFilmes",
+  "main": "server.js",
+  "author": {
+    "name": "gilberto.lima",
+    "email": "gilberto.lima@hcl.com"
+  }
+}
